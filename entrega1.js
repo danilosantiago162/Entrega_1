@@ -1,5 +1,5 @@
 class sistema{
-    //mudança
+    //mudança de novo
     var Lista_de_pedidos = new Array(0)
     class Pedidos{
         constructor(ID_unico,ID_cliente,status,data_pedido){
@@ -192,4 +192,5 @@ class sistema{
 
         }
     }
+    console.log("teste denovo");
 }
